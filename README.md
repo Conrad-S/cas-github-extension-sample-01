@@ -2,7 +2,7 @@
     <img src="https://aka.ms/deploytoazurebutton" alt="Deploy to Azure">
 </a>
 
-<span style="font-size: 12px;">(press the control key and right-click to open in a new tab)</span>
+## (press the CTRL key and click to open in a new tab)
 
 ### Development-Status
 ```json
