@@ -1,4 +1,4 @@
-<a href="https://" target="_blank">
+<a href="https://">
     <img src="https://aka.ms/deploytoazurebutton" alt="Deploy to Azure">
 </a>
 
