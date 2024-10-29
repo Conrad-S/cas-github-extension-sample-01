@@ -8,7 +8,7 @@
 ```json
 {
   "version": "Alpha",
-  "working": "No (calls to Octokit fails with "feature inaccessible" errors)",
+  "working": "No (calls to Octokit fails with 'feature inaccessible' errors. Working with GitHub architects.)",
   "documentation": "No (notes, no documentation yet)"
   "developer-required": "Yes"
   "distributed-publicly": "No"
