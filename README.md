@@ -1,11 +1,14 @@
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/<URL_OF_YOUR_TEMPLATE>)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://)
 
-Development-Status
+
+### Development-Status
+```json
 {
-  version: Alpha
-  working: NO (oktokit issues)
-  developer-required: Yes
+  "version": "Alpha",
+  "working": "No (Calls to Octokit fails as unauthorized)",
+  "developer-required": "Yes"
 }
+```
 
 **Project description**
 
