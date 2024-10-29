@@ -1,5 +1,6 @@
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://)
-
+<a href="https://" target="_blank">
+    <img src="https://aka.ms/deploytoazurebutton" alt="Deploy to Azure">
+</a>
 
 ### Development-Status
 ```json
