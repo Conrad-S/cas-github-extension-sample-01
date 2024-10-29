@@ -4,9 +4,9 @@
 ### Development-Status
 ```json
 {
-  "version": Alpha,
-  "working": No (Calls to Octokit fails as unauthorized),
-  "developer-required": Yes
+  "version": "Alpha",
+  "working": "No (Calls to Octokit fails as unauthorized)",
+  "developer-required": "Yes"
 }
 ```
 
