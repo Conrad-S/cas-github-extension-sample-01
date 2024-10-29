@@ -10,6 +10,7 @@
   "version": "Alpha",
   "working": "No (Calls to Octokit fails as unauthorized)",
   "developer-required": "Yes"
+  "distributed-publicly": "No"
 }
 ```
 
