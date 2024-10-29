@@ -1,6 +1,7 @@
 <a href="https://">
     <img src="https://aka.ms/deploytoazurebutton" alt="Deploy to Azure">
 </a>
+(right-click, and select Open in New Tab)
 
 ### Development-Status
 ```json
