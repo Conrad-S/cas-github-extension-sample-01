@@ -9,7 +9,7 @@
 {
   "version": "Alpha",
   "working": "No (Calls to Octokit fails as unauthorized)",
-  "documentation": "No (notes, no draft yet)"
+  "documentation": "No (notes, no documentation yet)"
   "developer-required": "Yes"
   "distributed-publicly": "No"
 }
