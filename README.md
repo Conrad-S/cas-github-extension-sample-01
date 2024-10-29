@@ -1,7 +1,8 @@
 <a href="https://">
     <img src="https://aka.ms/deploytoazurebutton" alt="Deploy to Azure">
 </a>
-(right-click, and select Open in New Tab)
+
+<span style="font-size: 12px;">(press the control key and right-click to open in a new tab)</span>
 
 ### Development-Status
 ```json
